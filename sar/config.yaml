@@ -1,0 +1,4 @@
+DESIGN_NAME: sar_logic
+VERILOG_FILES: dir::sar_logic.v
+CLOCK_PORT: clk
+CLOCK_PERIOD: 10

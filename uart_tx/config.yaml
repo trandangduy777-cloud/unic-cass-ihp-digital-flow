@@ -1,0 +1,4 @@
+DESIGN_NAME: uart_tx
+VERILOG_FILES: dir::uart_tx.v
+CLOCK_PORT: clk
+CLOCK_PERIOD: 10
