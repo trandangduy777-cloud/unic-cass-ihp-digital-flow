@@ -1,0 +1,5 @@
+DESIGN_NAME: vga_ctrl
+VERILOG_FILES:
+  - dir::vga_ctrl.v
+CLOCK_PORT: clk
+CLOCK_PERIOD: 40

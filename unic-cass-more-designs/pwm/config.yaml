@@ -1,0 +1,5 @@
+DESIGN_NAME: pwm
+VERILOG_FILES:
+  - dir::pwm.v
+CLOCK_PORT: clk
+CLOCK_PERIOD: 10

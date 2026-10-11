@@ -1,0 +1,5 @@
+DESIGN_NAME: i2c_master
+VERILOG_FILES:
+  - dir::i2c_master.v
+CLOCK_PORT: clk
+CLOCK_PERIOD: 10

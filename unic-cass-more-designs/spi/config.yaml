@@ -1,0 +1,7 @@
+DESIGN_NAME: spi_top
+VERILOG_FILES:
+  - dir::spi_top.v
+  - dir::spi_master.v
+  - dir::spi_slave.v
+CLOCK_PORT: clk
+CLOCK_PERIOD: 10
